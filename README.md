@@ -46,7 +46,6 @@ ipl-auction-analysis/
 - Assessed model accuracy using RMSE, R², and residual plots.
 - Performed bootstrapping to evaluate variability and stability.
 
----
 
 ## Tools & Libraries
 
