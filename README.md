@@ -4,7 +4,6 @@ This project analyzes data from IPL auctions between 2021 and 2024 to uncover in
 
 The project also investigates patterns based on player type (batter, bowler, all-rounder), overseas vs. Indian status, and year-wise team dynamics. The goal is to bridge auction economics with on-field results, using data science tools to understand and predict what makes a successful IPL investment.
 
----
 
 ## Key Questions Explored
 
@@ -13,7 +12,6 @@ The project also investigates patterns based on player type (batter, bowler, all
 - Are overseas players over- or under-valued compared to Indian players?
 - What patterns exist across different roles (batter, bowler, all-rounder) over time?
 
----
 
 ## Repository Structure
 
@@ -25,7 +23,6 @@ ipl-auction-analysis/
 └── images/ # Plots and visualization
 
 
----
 
 ## Methodology Overview
 
@@ -61,7 +58,6 @@ ipl-auction-analysis/
 - `scipy` – Hypothesis testing  
 - `jupyter` – Notebook-based workflow  
 
----
 
 ## Key Insights
 
@@ -70,12 +66,20 @@ ipl-auction-analysis/
 - Overseas players tend to have higher prices on average, though performance varies year to year.
 - GAMs provided smoother and often more interpretable performance predictions than linear regression alone.
 
----
 
 ## References:
 
 Data adapted and cleaned from IPL official sources and player performance statistics.
 
 Project developed as part of a coursework in statistical modeling and forecasting.
+
+## Contributors
+This project was collaboratively developed by:
+
+Meghna Nag, MS in Data Science, University of Colorado Boulder
+meghna.nag@colorado.edu
+
+Madhumitha Somasundaram, MS in Data Science, University of Colorado Boulder
+madhumitha.somasundaram@colorado.edu
 
 
