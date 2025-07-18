@@ -16,11 +16,11 @@ The project also investigates patterns based on player type (batter, bowler, all
 ## Repository Structure
 
 ipl-auction-analysis/
-├── IPL_Auction_Analysis_and_Forecasting.ipynb # Main notebook with full analysis
-├── IPL_2021_2024.csv # Cleaned dataset
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── images/ # Plots and visualization
+- IPL_Auction_Analysis_and_Forecasting.ipynb
+- IPL_2021_2024.csv 
+- requirements.txt
+- README.md 
+
 
 
 
